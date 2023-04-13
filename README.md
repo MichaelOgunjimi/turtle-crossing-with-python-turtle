@@ -12,7 +12,7 @@ The Turtle Crossing Game is a simple game created using Python's Turtle graphics
 
 1. Clone or download the repository to your local machine.
 2. Open a terminal or command prompt and navigate to the directory where the game files are located.
-3. Run the `turtle_crossing.py` file using Python, e.g. `python turtle_crossing.py`, to start the game.
+3. Run the `Turtle_Crossing.py` file using Python, e.g. `python Turtle_Crossing.py`, to start the game.
 
 ## Game Instructions
 
@@ -21,7 +21,7 @@ The Turtle Crossing Game is a simple game created using Python's Turtle graphics
 - The game level increases as the turtle successfully crosses the road, making it more challenging with faster cars.
 - The player has three lives initially, which are represented by the turtles at the bottom of the screen.
 - The game ends when the turtle gets hit by a car or loses all of its lives.
-- The player's score is displayed on the top right corner of the screen and increases with each successful road crossing.
+- The player's score is displayed in the top right corner of the screen and increases with each successful road crossing.
 
 ## Game Features
 
@@ -34,11 +34,11 @@ The Turtle Crossing Game is a simple game created using Python's Turtle graphics
 
 ## Customization
 
-The game can be customized by modifying the variables in the `turtle_crossing.py` file, such as the speed of the turtle and cars, number of lives, scoring mechanism, and game level difficulty.
+The game can be customized by modifying the variables in the `Turtle_Crossing.py` file, such as the speed of the turtle and cars, number of lives, scoring mechanism, and game level difficulty.
 
 ## Credits
 
-The Turtle Crossing Game was created by [Your Name]. It is based on the Python's Turtle graphics library, which is included in the standard library.
+The Turtle Crossing Game was created by Michael Ogunjimi. It is based on the Python's Turtle graphics library, which is included in the standard library.
 
 ## License
 
